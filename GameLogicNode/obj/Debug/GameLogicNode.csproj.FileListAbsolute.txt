@@ -1,0 +1,8 @@
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\bin\Debug\GameLogicNode.exe.config
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\bin\Debug\GameLogicNode.exe
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\bin\Debug\GameLogicNode.pdb
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\bin\Debug\otp.dll
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\bin\Debug\otp.pdb
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\obj\Debug\GameLogicNode.csprojResolveAssemblyReference.cache
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\obj\Debug\GameLogicNode.exe
+D:\Downloads\otp.net-master\otp.net-master\GameLogicNode\obj\Debug\GameLogicNode.pdb
